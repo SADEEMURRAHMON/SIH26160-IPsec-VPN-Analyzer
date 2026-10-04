@@ -1,4 +1,4 @@
-# 🔐 IPsec VPN Analyzer — SIH26160 (NTRO) · Team SYNTRIX
+# 🔐 IPsec VPN Analyzer — SIH26160 (NTRO) · Team SYNTRIX DACE
 
 **SYNTHETIC / DEFENSIVE PROTOTYPE.** Findings are *indicators requiring validation*. The tool does **not** decrypt IPsec,
 recover keys, bypass a VPN, identify hidden users, infer a cipher from ESP ciphertext, or prove a compromise.
