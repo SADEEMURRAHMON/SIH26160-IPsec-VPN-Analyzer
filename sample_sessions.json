@@ -1,0 +1,60 @@
+{
+  "sessions": [
+    {
+      "session_id": 101,
+      "peer": "Gateway-01",
+      "ike_version": "IKEv2",
+      "cipher": "AES-256-GCM",
+      "integrity": "SHA256",
+      "dh_group": "group14",
+      "auth": "certificate",
+      "status": "established",
+      "packets": 210,
+      "bytes": 168000,
+      "duration": 140
+    },
+    {
+      "session_id": 102,
+      "peer": "Branch-07",
+      "ike_version": "IKEv1",
+      "cipher": "3DES",
+      "integrity": "SHA1",
+      "dh_group": "group2",
+      "auth": "PSK",
+      "status": "established",
+      "packets": 190,
+      "bytes": 142000,
+      "duration": 130
+    },
+    {
+      "session_id": 103,
+      "peer": "Legacy-Router",
+      "ike_version": "IKEv1",
+      "cipher": "3DES",
+      "integrity": "MD5",
+      "dh_group": "group1",
+      "auth": "PSK",
+      "status": "established",
+      "packets": 175,
+      "bytes": 120000,
+      "duration": 125
+    },
+    {
+      "session_id": 104,
+      "peer": "Gateway-02",
+      "ike_version": "IKEv2",
+      "cipher": "AES-256-GCM",
+      "integrity": "SHA256",
+      "dh_group": "group14",
+      "auth": "certificate",
+      "status": "established",
+      "packets": 9800,
+      "bytes": 13200000,
+      "duration": 95
+    },
+    {
+      "session_id": 105,
+      "peer": "Partner-Site"
+    }
+  ]
+}

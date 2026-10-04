@@ -1,0 +1,57 @@
+{
+  "strong": {
+    "findings": [
+      "NO-PQ"
+    ],
+    "anomaly": 0
+  },
+  "legacy_3des": {
+    "findings": [
+      "DH-WEAK",
+      "ENC-3DES",
+      "HASH-SHA1",
+      "NO-PQ",
+      "RESP-WEAKER"
+    ],
+    "anomaly": 0
+  },
+  "offer_weak": {
+    "findings": [
+      "NO-PQ",
+      "OFFER-WEAK"
+    ],
+    "anomaly": 0
+  },
+  "resp_weaker": {
+    "findings": [
+      "NO-PQ",
+      "RESP-WEAKER"
+    ],
+    "anomaly": 0
+  },
+  "md5_dh5": {
+    "findings": [
+      "DH-LOW",
+      "HASH-MD5",
+      "NO-PQ"
+    ],
+    "anomaly": 0
+  },
+  "pq_hybrid": {
+    "findings": [],
+    "anomaly": 0
+  },
+  "ikev1_aggressive": {
+    "findings": [
+      "AGGR-MODE",
+      "IKEV1"
+    ],
+    "anomaly": 0
+  },
+  "volume_anomaly": {
+    "findings": [
+      "NO-PQ"
+    ],
+    "anomaly": 1
+  }
+}
